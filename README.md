@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Edwars</h1>
+<h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">Keen full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=es2710&label=Profile%20views&color=0e75b6&style=flat" alt="es2710" /> </p>
 
-- 🔭 I have just finished bootcamp **at Le Wagon**
+- 🔭 I have just finished a 24 week part time bootcamp **at Le Wagon**
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 I have just finished working on [Pikachoose](https://pikachoose2.herokuapp.com/)
 
-- 🤝 I’m looking for help with [RightTime](https://www.righttime.club/)
-
-- 💬 Ask me about **Le Wagon**
+- 🤝 I’m working on [RightTime](https://www.righttime.club/)
 
 - 📫 How to reach me **edward.sants@googlemail.com**
 
